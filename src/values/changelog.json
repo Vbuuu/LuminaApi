@@ -1,5 +1,5 @@
 [
-  { "0.4": "new Font \n New Hud System" },
-  { "0.5": "Updated to 1.20" },
-  { "0.6": "Added Discord RPC \n Added Changelog page" }
+  { "0.5": "Started to log my progress \n Added hud editor & hud system \n Added .cmds command \n Added .toggle command \n Added speed hud(text, graph) \n Some code cleanup \n Fixed config system" },
+  { "0.5.1": "Fixed the .cmds command \n Fixed current config not displaying in config screen \n Forgot to remove some shit Forgot to remove some shit" }
+  { "0.6": "Added Crystal Aura \n Added option to open the config folder in the .config command" }
 ]
