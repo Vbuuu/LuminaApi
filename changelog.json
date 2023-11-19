@@ -1,0 +1,42 @@
+{
+  "0.5": [
+    "[/] Started to log my progress",
+    "[+] Added hud editor & hud system",
+    "[+] Added .cmds command",
+    "[+] Added .toggle command",
+    "[+] Added speed hud(text, graph)",
+    "[/] Some code cleanup",
+    "[/] Fixed config system"
+  ],
+  "0.5.1": [
+    "[/] Fixed the .cmds command",
+    "[/] Fixed current config not displaying in config screen",
+    "[-] Forgot to remove some shit"
+  ],
+  "0.6": [
+    "[+] Added HoleESP",
+    "[+] Added option to open the config folder in the .config command",
+    "[+] Added Confetti",
+    "[+] Added Welcome hud",
+    "[+] Added ClientSpoof",
+    "[+] Added scale to hud elements",
+    "[+] Added voice recognition",
+    "[+] Added new Font",
+    "[/] Upgraded Watermark",
+    "[/] Fixed issue with the alpha in the color setting"
+  ],
+  "0.7": [
+    "[+] Added Zoom",
+    "[+] Added ChatFilter",
+    "[+] Added bind command",
+    "[+] Added CrystalHelper",
+    "[+] Added new Titlescreen",
+    "[+] Added Theme Page",
+    "[+] Added Theme manager (allows you to create your own themes)",
+    "[+] Added Keystrokes",
+    "[+] Added UnfocusedFps",
+    "[/] Changed package path",
+    "[/] Updated to Minecraft 1.20.2",
+    "[-] Removed DiscordRPC because it ain't working"
+  ]
+}
