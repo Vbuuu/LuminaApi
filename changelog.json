@@ -39,6 +39,8 @@
     "[+] Added Fulbright",
     "[+] Added Sprint",
     "[+] Added Alert",
+    "[+] Added Triggerbot",
+    "[+] Added PortalGUI",
     "[/] Changed package path",
     "[/] Updated to Minecraft 1.20.2",
     "[-] Removed DiscordRPC because it ain't working"
