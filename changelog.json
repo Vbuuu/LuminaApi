@@ -48,6 +48,7 @@
     "[-] Removed DiscordRPC because it ain't working"
   ],
   "0.7.1": [
-    "[/] fixed Fixed Keybind bug"
+    "[/] fixed Fixed Keybind bug",
+    "[/] fixed version updater"
   ]
 }
